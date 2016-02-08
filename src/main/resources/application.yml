@@ -1,0 +1,3 @@
+app:
+  path: /var/tmp
+#  alternativePath: /var/alt

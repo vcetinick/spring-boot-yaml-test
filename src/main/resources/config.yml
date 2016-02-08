@@ -1,0 +1,3 @@
+config:
+  path: /var/tmp
+#  alternativePath: /var/alt
